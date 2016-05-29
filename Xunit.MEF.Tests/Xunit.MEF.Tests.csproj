@@ -46,16 +46,14 @@
       <HintPath>..\packages\xunit.1.9.2\lib\net20\xunit.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Xunit.MEF, Version=0.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Xunit.MEF.0.0.1\lib\net45\Xunit.MEF.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MefTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Xunit.MEF\Xunit.MEF.csproj">
-      <Project>{3ed75510-253e-43bc-9271-d4bf1c5f3b0f}</Project>
-      <Name>Xunit.MEF</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

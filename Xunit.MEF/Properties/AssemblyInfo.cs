@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Xunit.MEF")]
 [assembly: AssemblyDescription("Extension to xunit that allows yout to resolve the test class by MEF.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("jello chen")]
 [assembly: AssemblyProduct("Xunit.MEF")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
