@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xunit.MEF", "Xunit.MEF\Xunit.MEF.csproj", "{3ED75510-253E-43BC-9271-D4BF1C5F3B0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xunit.MEF.Tests", "Xunit.MEF.Tests\Xunit.MEF.Tests.csproj", "{44CEB6EE-3010-48D6-A052-34A51C28579B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ED75510-253E-43BC-9271-D4BF1C5F3B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED75510-253E-43BC-9271-D4BF1C5F3B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED75510-253E-43BC-9271-D4BF1C5F3B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED75510-253E-43BC-9271-D4BF1C5F3B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44CEB6EE-3010-48D6-A052-34A51C28579B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CEB6EE-3010-48D6-A052-34A51C28579B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CEB6EE-3010-48D6-A052-34A51C28579B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CEB6EE-3010-48D6-A052-34A51C28579B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
